@@ -34,19 +34,13 @@ html {
 }
 
 .s1 {
-  background-image: url("/logo2/png/high-res.png");
+  background-image: url("./logo2/png/high-res.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
   background-color: #398378;
 }
-.s1 img {
-  margin: auto;
-  height: 100%;
-  vertical-align: middle;
-  display: flex;
-  position: relative;
-}
+
 
 .s2 {
   background-color: #396983;
